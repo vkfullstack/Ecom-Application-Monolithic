@@ -1,1 +1,1 @@
-# Ecom-Application-Microservices
+# Ecom-Application-monolithic
